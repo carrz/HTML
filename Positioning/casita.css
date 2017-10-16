@@ -1,0 +1,111 @@
+.casa{
+	background-color: #A6FFFD;
+	width: 1200px;
+	height: 615px;
+	margin: 0 auto;
+	position: relative;
+}
+.sol{
+	background-color: yellow;
+	border: 5px solid orange;
+	border-radius: 80px;
+	width: 125px;
+	height: 125px;
+	position: absolute;
+	left: 150px;
+	top: 40px;
+}
+.pasto{
+	background-color: green;
+	border: 1px solid black;
+	width: 1200px;
+	height: 15px;
+	position: absolute;
+	bottom: 0px;
+}
+.base{
+	background-color: yellow;
+	border: 1px solid black;
+	width: 300px;
+	height: 180px;
+	position: absolute;
+	left: 600px;
+	bottom: 16px;
+}
+.techo{
+	border-bottom: 100px solid red;
+	width: 300px;
+	position: absolute;
+	left: 552px;
+	bottom: 196px;
+	border-right: 50px solid transparent;
+	border-left: 50px solid transparent;
+}
+.ventana1{
+	background-color: white;
+	border: 5px solid red;
+	border-radius: 50px;
+	width: 75px;
+	height: 75px;
+	position: absolute;
+	left: 790px;
+	bottom: 80px;
+}
+.ventana2{
+	background-color: white;
+	border: 5px solid red;
+	border-radius: 50px;
+	width: 75px;
+	height: 75px;
+	position: absolute;
+	left: 625px;
+	bottom: 80px;
+}
+.puerta{
+	background-color: brown;
+	border: 1px solid black;
+	width: 60px;
+	height: 80px;
+	position: absolute;
+	left: 720px;
+	bottom: 16px;
+}
+.chimenea{
+	background-color: brown;
+	border: 1px solid black;
+	width: 30px;
+	height: 40px;
+	position: absolute;
+	left: 800px;
+	bottom: 296px;
+}
+.humo1{
+	background-color: gray;
+	border: 1px solid black;
+	border-radius: 50px;
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 810px;
+	bottom: 334px;
+}
+.humo2{
+	background-color: gray;
+	border: 1px solid black;
+	border-radius: 50px;
+	width: 35px;
+	height: 35px;
+	position: absolute;
+	left: 790px;
+	bottom: 338px;
+}
+.humo3{
+	background-color: gray;
+	border: 1px solid black;
+	border-radius: 50px;
+	width: 45px;
+	height: 45px;
+	position: absolute;
+	left: 815px;
+	bottom: 350px;
+}
